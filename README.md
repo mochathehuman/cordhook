@@ -5,6 +5,8 @@ It provides a developer-friendly way to send rich messages, embeds, and file att
 
 ---
 
+[PyPi Project Page](https://pypi.org/project/cordhook/)
+
 ## Features
 
 - Simple interface for sending messages and embeds  
