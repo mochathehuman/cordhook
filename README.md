@@ -1,5 +1,10 @@
 # Cordhook
 
+[![PyPI version](https://img.shields.io/pypi/v/cordhook)](https://pypi.org/project/cordhook)
+[![Python](https://img.shields.io/pypi/pyversions/cordhook)](https://pypi.org/project/cordhook)
+[![License](https://img.shields.io/github/license/mochathehuman/cordhook)](https://github.com/mochathehuman/cordhook/blob/master/LICENSE)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/mochathehuman/cordhook/python-publish.yml?branch=master)](https://github.com/mochathehuman/cordhook/actions)
+
 Cordhook is a clean, lightweight Python wrapper around the Discord Webhook API.  
 It provides a developer-friendly way to send rich messages, embeds, and file attachments with built-in validation, retry logic, and error handling.
 
